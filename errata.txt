@@ -1,0 +1,12 @@
+Acryl
+	- [frontpanel] Two more screws on the frontplate would stabilize better
+	- [frontpanel] Openings shoud be 0.1-0.2mm wider, blocks are jamming
+	- [blocks] Blocks are jamming because of flange
+	- [sidepanel] Ribbon cable connector is blocking VCC socket
+	- [sidepanel] Fill in for letters is to small
+	- [sidepanel] Hard to tell which mode is selected
+
+PCB
+	- [servoreference] Print on silk for DS1307 I2C address is wrong, should be: 0xD0
+	- [All] Why did I choose right angle connectors ? That's stupid!
+
